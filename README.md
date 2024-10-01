@@ -1,3 +1,10 @@
+Hello! This is the 11th project from my User Interfaces course! It features a conversational AI chatbot that helps users post to multiple chatrooms hosting 200+ people (with text-to-speech for accessability too!)
+
+
+
+
+https://github.com/user-attachments/assets/51860e6f-fb5f-4877-a800-9cf3833dcf48
+
 
 # CS571-S24 HW11: BadgerChat (Voice!)
 
